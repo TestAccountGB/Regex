@@ -37,6 +37,7 @@ public class MetaRegex {
 		// \X? - Algum metacaractere mas o minimo e 0 e o maximo 1, mesma coisa que X{0,1}, mas digitando menos
 		// \X* - 0 ou Mais Vezes.
 		// \X+ - 1 Ou mais Vezes.
+		// \X? - 1 Ou Nenhuma vez.
 		
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////
 		
